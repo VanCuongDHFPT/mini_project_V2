@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\HomeWork\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|d:\\c#\\homework\\studentmanagement\\studentmanagement\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|d:\\c#\\homework\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\models\\managementstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\managementstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\dto\\sinhvienrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\sinhvienrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\migrations\\managementstudentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\managementstudentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|d:\\c#\\homework\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|d:\\c#\\homework\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|d:\\c#\\homework\\studentmanagement\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C249CB9A-6489-40C0-98A4-70CF740B9690}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|d:\\c#\\homework\\studentmanagement\\studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D221C4E-1A16-4611-AE43-71E297BC8CD8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Models\\LopHoc.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\LopHoc.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Models\\LopHoc.cs",
+              "RelativeToolTip": "DataAccess\\Models\\LopHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:41:53.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\SinhVienController.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:33:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:17:06.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Models\\SinhVien.cs",
+              "RelativeToolTip": "DataAccess\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:43:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:46:52.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:16:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagementStudentContext.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Models\\ManagementStudentContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\ManagementStudentContext.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Models\\ManagementStudentContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\ManagementStudentContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:41:05.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinhVienRequest.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\DTO\\SinhVienRequest.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DTO\\SinhVienRequest.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\DTO\\SinhVienRequest.cs",
+              "RelativeToolTip": "DataAccess\\DTO\\SinhVienRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:54:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagementStudentContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Migrations\\ManagementStudentContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ManagementStudentContextModelSnapshot.cs",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\Migrations\\ManagementStudentContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\ManagementStudentContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:13:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T03:41:16.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentManagement.csproj",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T03:58:56.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T03:39:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\HomeWork\\StudentManagement\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T03:49:37.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

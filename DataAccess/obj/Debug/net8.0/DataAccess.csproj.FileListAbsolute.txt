@@ -1,0 +1,14 @@
+D:\C#\HomeWork\StudentManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\C#\HomeWork\StudentManagement\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\C#\HomeWork\StudentManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\C#\HomeWork\StudentManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\C#\HomeWork\StudentManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
